@@ -7,4 +7,18 @@
 
 📊 Apasionado por transformar datos en decisiones inteligentes
 
----
+--- 
+
+## 🚀 Tecnologías
+
+* 🐍 Python (Pandas, NumPy)
+* 🗄️ SQL Server / MySQL
+* 📊 Power BI / Excel
+* ⚙️ ETL, Limpieza de datos & DAX 
+
+## 📈 Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BRAYAN_CC\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
+
