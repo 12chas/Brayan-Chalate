@@ -20,5 +20,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BRAYAN_CC\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRAYAN_CC\&layout=compact\&theme=tokyonight)
 
